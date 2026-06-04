@@ -68,4 +68,9 @@ The Decision Tree model was successfully trained and evaluated on the Bank Marke
 * Decision Tree Classification
 * Model evaluation metrics
 * Tree visualization using Scikit-learn
-decision_tree.png
+
+  ## Decision Tree Visualization
+
+![Decision Tree](decision_tree.png)
+
+
